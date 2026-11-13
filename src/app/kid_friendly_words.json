@@ -1,0 +1,802 @@
+[
+  {
+    "word": "apple",
+    "meaning": "A round fruit that is red or green"
+  },
+  {
+    "word": "baker",
+    "meaning": "A person who makes bread and cakes"
+  },
+  {
+    "word": "beach",
+    "meaning": "A sandy area next to the ocean"
+  },
+  {
+    "word": "brave",
+    "meaning": "Not afraid to do hard things"
+  },
+  {
+    "word": "bread",
+    "meaning": "Food made from flour, baked in an oven"
+  },
+  {
+    "word": "brush",
+    "meaning": "A tool with bristles for cleaning or painting"
+  },
+  {
+    "word": "camel",
+    "meaning": "An animal with humps that lives in the desert"
+  },
+  {
+    "word": "candy",
+    "meaning": "A sweet treat"
+  },
+  {
+    "word": "chair",
+    "meaning": "Something you sit on"
+  },
+  {
+    "word": "chest",
+    "meaning": "The front part of your body, above your belly"
+  },
+  {
+    "word": "clean",
+    "meaning": "Not dirty"
+  },
+  {
+    "word": "climb",
+    "meaning": "To go up something using your hands and feet"
+  },
+  {
+    "word": "clock",
+    "meaning": "A thing that tells you what time it is"
+  },
+  {
+    "word": "cloud",
+    "meaning": "A white or gray puff of water vapor in the sky"
+  },
+  {
+    "word": "clown",
+    "meaning": "A funny person who performs at circuses"
+  },
+  {
+    "word": "coach",
+    "meaning": "A person who trains a sports team"
+  },
+  {
+    "word": "comic",
+    "meaning": "Something funny, like a funny book with pictures"
+  },
+  {
+    "word": "could",
+    "meaning": "A word that means maybe able to"
+  },
+  {
+    "word": "crawl",
+    "meaning": "To move on your hands and knees"
+  },
+  {
+    "word": "dance",
+    "meaning": "To move your body to music"
+  },
+  {
+    "word": "diary",
+    "meaning": "A book where you write about your day"
+  },
+  {
+    "word": "dirty",
+    "meaning": "Not clean"
+  },
+  {
+    "word": "dizzy",
+    "meaning": "Feeling like everything is spinning"
+  },
+  {
+    "word": "dodge",
+    "meaning": "To quickly move out of the way"
+  },
+  {
+    "word": "dozen",
+    "meaning": "A group of twelve"
+  },
+  {
+    "word": "dream",
+    "meaning": "Pictures and stories your mind makes while you sleep"
+  },
+  {
+    "word": "dress",
+    "meaning": "A piece of clothing girls or women wear"
+  },
+  {
+    "word": "dried",
+    "meaning": "No longer wet"
+  },
+  {
+    "word": "early",
+    "meaning": "Before the usual time"
+  },
+  {
+    "word": "earth",
+    "meaning": "The planet we live on"
+  },
+  {
+    "word": "eight",
+    "meaning": "The number 8"
+  },
+  {
+    "word": "empty",
+    "meaning": "Having nothing inside"
+  },
+  {
+    "word": "enjoy",
+    "meaning": "To like doing something"
+  },
+  {
+    "word": "equal",
+    "meaning": "The same amount as something else"
+  },
+  {
+    "word": "fairy",
+    "meaning": "A tiny magical creature with wings"
+  },
+  {
+    "word": "faith",
+    "meaning": "Believing strongly in something"
+  },
+  {
+    "word": "fifth",
+    "meaning": "Coming after fourth"
+  },
+  {
+    "word": "fifty",
+    "meaning": "The number 50"
+  },
+  {
+    "word": "finch",
+    "meaning": "A small singing bird"
+  },
+  {
+    "word": "first",
+    "meaning": "Coming before everything else"
+  },
+  {
+    "word": "flame",
+    "meaning": "The bright hot part of a fire"
+  },
+  {
+    "word": "float",
+    "meaning": "To stay on top of water instead of sinking"
+  },
+  {
+    "word": "flock",
+    "meaning": "A group of birds or sheep"
+  },
+  {
+    "word": "flour",
+    "meaning": "A powder made from wheat, used to bake bread"
+  },
+  {
+    "word": "flute",
+    "meaning": "A musical instrument you blow into"
+  },
+  {
+    "word": "found",
+    "meaning": "Discovered something"
+  },
+  {
+    "word": "frame",
+    "meaning": "The edge that goes around a picture"
+  },
+  {
+    "word": "fresh",
+    "meaning": "New, not old"
+  },
+  {
+    "word": "frown",
+    "meaning": "To turn the corners of your mouth down when unhappy"
+  },
+  {
+    "word": "fruit",
+    "meaning": "Sweet food that grows on plants, like apples or bananas"
+  },
+  {
+    "word": "funny",
+    "meaning": "Making you laugh"
+  },
+  {
+    "word": "giant",
+    "meaning": "Something extremely big, or a huge person in stories"
+  },
+  {
+    "word": "glass",
+    "meaning": "A see-through material used for windows and cups"
+  },
+  {
+    "word": "glide",
+    "meaning": "To move smoothly through the air or water"
+  },
+  {
+    "word": "globe",
+    "meaning": "A round model of the Earth"
+  },
+  {
+    "word": "glove",
+    "meaning": "Something you wear to cover your hand"
+  },
+  {
+    "word": "grape",
+    "meaning": "A small round fruit that grows in bunches"
+  },
+  {
+    "word": "great",
+    "meaning": "Very good"
+  },
+  {
+    "word": "green",
+    "meaning": "The color of grass"
+  },
+  {
+    "word": "guess",
+    "meaning": "To answer without knowing for sure"
+  },
+  {
+    "word": "guest",
+    "meaning": "A person who visits you"
+  },
+  {
+    "word": "guide",
+    "meaning": "Someone who shows you the way"
+  },
+  {
+    "word": "happy",
+    "meaning": "Feeling good and cheerful"
+  },
+  {
+    "word": "heart",
+    "meaning": "The part of your body that pumps blood"
+  },
+  {
+    "word": "heavy",
+    "meaning": "Weighing a lot"
+  },
+  {
+    "word": "hello",
+    "meaning": "A word you say when you greet someone"
+  },
+  {
+    "word": "honey",
+    "meaning": "A sweet food made by bees"
+  },
+  {
+    "word": "horse",
+    "meaning": "A large animal people ride on"
+  },
+  {
+    "word": "hotel",
+    "meaning": "A place where people pay to stay when traveling"
+  },
+  {
+    "word": "house",
+    "meaning": "A building where people live"
+  },
+  {
+    "word": "human",
+    "meaning": "A person"
+  },
+  {
+    "word": "hurry",
+    "meaning": "To move fast because you are late"
+  },
+  {
+    "word": "igloo",
+    "meaning": "A round house made of blocks of snow"
+  },
+  {
+    "word": "joker",
+    "meaning": "A person who likes to joke around"
+  },
+  {
+    "word": "jolly",
+    "meaning": "Cheerful and happy"
+  },
+  {
+    "word": "juice",
+    "meaning": "A sweet drink made from fruit"
+  },
+  {
+    "word": "jumpy",
+    "meaning": "Easily surprised or nervous"
+  },
+  {
+    "word": "koala",
+    "meaning": "A furry Australian animal that eats leaves"
+  },
+  {
+    "word": "laugh",
+    "meaning": "To make a sound when something is funny"
+  },
+  {
+    "word": "learn",
+    "meaning": "To gain new knowledge"
+  },
+  {
+    "word": "lemon",
+    "meaning": "A sour yellow fruit"
+  },
+  {
+    "word": "light",
+    "meaning": "Something that lets you see; not heavy"
+  },
+  {
+    "word": "lucky",
+    "meaning": "Having good things happen by chance"
+  },
+  {
+    "word": "magic",
+    "meaning": "Special powers that seem impossible"
+  },
+  {
+    "word": "mango",
+    "meaning": "A sweet tropical fruit"
+  },
+  {
+    "word": "melon",
+    "meaning": "A large juicy fruit"
+  },
+  {
+    "word": "might",
+    "meaning": "A word meaning maybe; also means strength"
+  },
+  {
+    "word": "money",
+    "meaning": "Coins and paper bills used to buy things"
+  },
+  {
+    "word": "month",
+    "meaning": "One of the twelve parts of a year"
+  },
+  {
+    "word": "moose",
+    "meaning": "A large deer with big antlers"
+  },
+  {
+    "word": "mouse",
+    "meaning": "A tiny furry animal; also a computer tool"
+  },
+  {
+    "word": "movie",
+    "meaning": "A film you watch"
+  },
+  {
+    "word": "music",
+    "meaning": "Sounds put together to make songs"
+  },
+  {
+    "word": "never",
+    "meaning": "Not ever"
+  },
+  {
+    "word": "ninth",
+    "meaning": "Coming after eighth"
+  },
+  {
+    "word": "noisy",
+    "meaning": "Making a lot of sound"
+  },
+  {
+    "word": "north",
+    "meaning": "The direction toward the top of a map"
+  },
+  {
+    "word": "nurse",
+    "meaning": "A person who helps take care of sick people"
+  },
+  {
+    "word": "ocean",
+    "meaning": "A huge body of salt water"
+  },
+  {
+    "word": "often",
+    "meaning": "Happening many times"
+  },
+  {
+    "word": "olive",
+    "meaning": "A small fruit used to make oil"
+  },
+  {
+    "word": "onion",
+    "meaning": "A round vegetable with a strong smell"
+  },
+  {
+    "word": "panda",
+    "meaning": "A black-and-white bear from China"
+  },
+  {
+    "word": "paper",
+    "meaning": "Thin material used for writing or drawing"
+  },
+  {
+    "word": "party",
+    "meaning": "A fun get-together with friends"
+  },
+  {
+    "word": "peace",
+    "meaning": "A time with no fighting; calm and quiet"
+  },
+  {
+    "word": "peach",
+    "meaning": "A soft, fuzzy, sweet fruit"
+  },
+  {
+    "word": "pearl",
+    "meaning": "A small shiny white gem from an oyster"
+  },
+  {
+    "word": "phone",
+    "meaning": "A device used to talk to people far away"
+  },
+  {
+    "word": "photo",
+    "meaning": "A picture taken with a camera"
+  },
+  {
+    "word": "piano",
+    "meaning": "A big musical instrument with black and white keys"
+  },
+  {
+    "word": "pilot",
+    "meaning": "A person who flies an airplane"
+  },
+  {
+    "word": "pizza",
+    "meaning": "A round food with cheese and toppings on dough"
+  },
+  {
+    "word": "plant",
+    "meaning": "A living thing that grows from the ground"
+  },
+  {
+    "word": "plate",
+    "meaning": "A flat dish you eat food from"
+  },
+  {
+    "word": "point",
+    "meaning": "The sharp end of something; a spot"
+  },
+  {
+    "word": "pound",
+    "meaning": "A unit for weighing things"
+  },
+  {
+    "word": "power",
+    "meaning": "The strength to do something"
+  },
+  {
+    "word": "prize",
+    "meaning": "A reward you win"
+  },
+  {
+    "word": "proud",
+    "meaning": "Feeling very pleased about something you did"
+  },
+  {
+    "word": "puppy",
+    "meaning": "A baby dog"
+  },
+  {
+    "word": "quick",
+    "meaning": "Moving fast"
+  },
+  {
+    "word": "quiet",
+    "meaning": "Making very little noise"
+  },
+  {
+    "word": "quilt",
+    "meaning": "A warm blanket made of stitched pieces of cloth"
+  },
+  {
+    "word": "radio",
+    "meaning": "A machine that plays music and talks"
+  },
+  {
+    "word": "rainy",
+    "meaning": "Full of rain"
+  },
+  {
+    "word": "reach",
+    "meaning": "To stretch out to touch or get something"
+  },
+  {
+    "word": "ready",
+    "meaning": "Prepared to do something"
+  },
+  {
+    "word": "river",
+    "meaning": "A long stream of flowing water"
+  },
+  {
+    "word": "robot",
+    "meaning": "A machine that can do tasks like a person"
+  },
+  {
+    "word": "rocky",
+    "meaning": "Full of rocks"
+  },
+  {
+    "word": "round",
+    "meaning": "Shaped like a circle or ball"
+  },
+  {
+    "word": "sandy",
+    "meaning": "Covered with sand"
+  },
+  {
+    "word": "scare",
+    "meaning": "To make someone afraid"
+  },
+  {
+    "word": "scarf",
+    "meaning": "A long piece of cloth worn around your neck"
+  },
+  {
+    "word": "shape",
+    "meaning": "The form or outline of something"
+  },
+  {
+    "word": "share",
+    "meaning": "To let others use or have some of what you have"
+  },
+  {
+    "word": "shark",
+    "meaning": "A big fish with sharp teeth"
+  },
+  {
+    "word": "sheep",
+    "meaning": "A woolly farm animal"
+  },
+  {
+    "word": "shell",
+    "meaning": "The hard outside covering of an animal like a turtle"
+  },
+  {
+    "word": "shine",
+    "meaning": "To give off bright light"
+  },
+  {
+    "word": "shirt",
+    "meaning": "A piece of clothing for your upper body"
+  },
+  {
+    "word": "short",
+    "meaning": "Not tall; not long"
+  },
+  {
+    "word": "shout",
+    "meaning": "To say something very loudly"
+  },
+  {
+    "word": "silly",
+    "meaning": "Funny and a little foolish"
+  },
+  {
+    "word": "since",
+    "meaning": "From a certain time until now"
+  },
+  {
+    "word": "sixth",
+    "meaning": "Coming after fifth"
+  },
+  {
+    "word": "sixty",
+    "meaning": "The number 60"
+  },
+  {
+    "word": "skate",
+    "meaning": "To glide smoothly on wheels or ice"
+  },
+  {
+    "word": "sleep",
+    "meaning": "To rest with your eyes closed at night"
+  },
+  {
+    "word": "slide",
+    "meaning": "A playground toy you slip down; to move smoothly"
+  },
+  {
+    "word": "smart",
+    "meaning": "Good at learning and thinking"
+  },
+  {
+    "word": "smell",
+    "meaning": "To notice something with your nose"
+  },
+  {
+    "word": "smile",
+    "meaning": "A happy look on your face"
+  },
+  {
+    "word": "smoke",
+    "meaning": "Gray or black clouds that come from fire"
+  },
+  {
+    "word": "snack",
+    "meaning": "A small amount of food eaten between meals"
+  },
+  {
+    "word": "snail",
+    "meaning": "A small slow animal with a shell"
+  },
+  {
+    "word": "space",
+    "meaning": "The huge area outside Earth with stars and planets"
+  },
+  {
+    "word": "speak",
+    "meaning": "To say words out loud"
+  },
+  {
+    "word": "spell",
+    "meaning": "To put letters in the right order to make a word"
+  },
+  {
+    "word": "spoon",
+    "meaning": "A tool used to eat soup or cereal"
+  },
+  {
+    "word": "sport",
+    "meaning": "A game that uses physical activity, like soccer"
+  },
+  {
+    "word": "spray",
+    "meaning": "Tiny drops of liquid shot into the air"
+  },
+  {
+    "word": "stamp",
+    "meaning": "A small sticker put on mail to pay for postage"
+  },
+  {
+    "word": "stand",
+    "meaning": "To be on your feet, not sitting"
+  },
+  {
+    "word": "start",
+    "meaning": "The beginning of something"
+  },
+  {
+    "word": "steal",
+    "meaning": "To take something that is not yours"
+  },
+  {
+    "word": "steep",
+    "meaning": "Sloping sharply, hard to climb"
+  },
+  {
+    "word": "story",
+    "meaning": "A tale that is told or written"
+  },
+  {
+    "word": "study",
+    "meaning": "To spend time learning something"
+  },
+  {
+    "word": "sunny",
+    "meaning": "Bright with sunshine"
+  },
+  {
+    "word": "sweet",
+    "meaning": "Tasting like sugar; kind and nice"
+  },
+  {
+    "word": "swift",
+    "meaning": "Very fast"
+  },
+  {
+    "word": "swing",
+    "meaning": "A seat that hangs and moves back and forth"
+  },
+  {
+    "word": "table",
+    "meaning": "A piece of furniture with a flat top"
+  },
+  {
+    "word": "teach",
+    "meaning": "To help someone learn"
+  },
+  {
+    "word": "teddy",
+    "meaning": "A soft stuffed toy bear"
+  },
+  {
+    "word": "tiger",
+    "meaning": "A large wild cat with orange and black stripes"
+  },
+  {
+    "word": "today",
+    "meaning": "This day right now"
+  },
+  {
+    "word": "touch",
+    "meaning": "To put your hand on something"
+  },
+  {
+    "word": "towel",
+    "meaning": "A cloth used to dry yourself"
+  },
+  {
+    "word": "train",
+    "meaning": "A line of connected cars that runs on tracks"
+  },
+  {
+    "word": "treat",
+    "meaning": "A special snack; something nice given to someone"
+  },
+  {
+    "word": "trust",
+    "meaning": "To believe someone will do the right thing"
+  },
+  {
+    "word": "truth",
+    "meaning": "Something that is really true, not a lie"
+  },
+  {
+    "word": "tulip",
+    "meaning": "A colorful spring flower"
+  },
+  {
+    "word": "twice",
+    "meaning": "Two times"
+  },
+  {
+    "word": "uncle",
+    "meaning": "Your parent's brother"
+  },
+  {
+    "word": "under",
+    "meaning": "Below something"
+  },
+  {
+    "word": "until",
+    "meaning": "Up to a certain time"
+  },
+  {
+    "word": "upset",
+    "meaning": "Feeling sad or annoyed"
+  },
+  {
+    "word": "valid",
+    "meaning": "Really true or acceptable"
+  },
+  {
+    "word": "video",
+    "meaning": "A moving picture you can watch"
+  },
+  {
+    "word": "visit",
+    "meaning": "To go see someone or somewhere"
+  },
+  {
+    "word": "voice",
+    "meaning": "The sound you make when you speak"
+  },
+  {
+    "word": "wagon",
+    "meaning": "A small cart with wheels, often pulled by a handle"
+  },
+  {
+    "word": "watch",
+    "meaning": "To look at something; also a small clock you wear"
+  },
+  {
+    "word": "water",
+    "meaning": "The clear liquid you drink and swim in"
+  },
+  {
+    "word": "weigh",
+    "meaning": "To find out how heavy something is"
+  },
+  {
+    "word": "whale",
+    "meaning": "A huge animal that lives in the ocean"
+  }
+]

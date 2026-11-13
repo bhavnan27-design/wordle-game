@@ -1,0 +1,12 @@
+2026-10-12 03:59:04,E001,salary,120000,130000
+2026-10-19 03:59:04,E003,title,Senior Manager,Executive
+2026-10-14 03:59:04,E001,location,Issaquah,Redmond
+2026-10-20 03:59:04,E001,title,Software Engineer,Senior Software Engineer
+2026-10-21 03:59:04,E002,salary,95000,102000
+2026-10-22 03:59:04,E003,location,Seattle,Bellevue
+2026-10-23 03:59:04,E001,manager_id,E002,E003
+2026-10-24 03:59:04,E002,title,Analyst,Senior Analyst
+2026-10-26 03:59:04,E001,location,Redmond,Seattle
+2026-10-27 03:59:04,E002,location,Bellevue,Kirkland
+2026-10-28 03:59:04,E003,manager_id,E002,E001
+2026-10-29 03:59:04,E003,title,Executive,Director

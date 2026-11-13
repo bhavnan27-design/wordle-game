@@ -1,0 +1,92 @@
+<div class="title-area">
+    <img class="wordle-logo" src="wordle_logo.png" alt="Wordle logo" />
+    <h2 class="title">
+        <span class="char1">W</span>
+        <span class="char2">O</span>
+        <span class="char3">R</span>
+        <span class="char4">D</span>
+        <span class="char5">L</span>
+        <span class="char6">E</span>
+    </h2>
+</div>
+
+<div class="difficulty-options" aria-label="Word difficulty">
+    <label>
+        <input
+            type="radio"
+            name="difficulty"
+            value="simple"
+            [ngModel]="difficulty"
+            (ngModelChange)="selectDifficulty($event)"
+        />
+        Simple
+    </label>
+    <label>
+        <input
+            type="radio"
+            name="difficulty"
+            value="complex"
+            [ngModel]="difficulty"
+            (ngModelChange)="selectDifficulty($event)"
+        />
+        Complex
+    </label>
+</div>
+
+<div class="input-field" style="margin: 45px;">
+    @for (item of [1, 2, 3, 4, 5]; track item)
+    {
+        <input
+            #letterInput
+            class="charac"
+            type="text"
+            maxlength="1"
+            pattern="[A-Za-z]"
+            inputmode="text"
+            [ngModel]="getChar(item)"
+            (ngModelChange)="setChar(item, $event)"
+            (beforeinput)="allowAlphabeticInput($event)"
+            (input)="onLetterInput(item)"
+            (keydown.backspace)="onBackspace($event, item)"
+            [disabled]="gameWon || answerRevealed"
+            [attr.aria-label]="'Letter ' + item"
+        />
+    }
+    <button
+        class="submit-arrow"
+        type="button"
+        aria-label="Submit guess"
+        [disabled]="gameWon || answerRevealed"
+        (click)="submitGuess()"
+    >Go!</button>
+</div>
+
+<div class="game-area">
+    <div class="guess-grid" aria-label="Submitted guesses">
+        @for (row of [0, 1, 2, 3, 4]; track row)
+        {
+            @for (column of [0, 1, 2, 3, 4]; track column)
+            {
+                <div
+                    class="guess-cell"
+                    [class.correct-letter]="getLetterStatus(row, column) === 'correct'"
+                    [class.present-letter]="getLetterStatus(row, column) === 'present'"
+                    [class.wrong-letter]="getLetterStatus(row, column) === 'wrong'"
+                >{{ getGuessLetter(row, column) }}</div>
+            }
+        }
+    </div>
+
+    @if (gameWon || answerRevealed) {
+        <aside class="result" role="status">
+            @if (gameWon) {
+                <h3>Right Answer!</h3>
+            } @else {
+                <h3>The answer was:</h3>
+            }
+            <p class="answer-word">{{ target.word }}</p>
+            <p>{{ target.meaning }}</p>
+            <button class="next-game" type="button" (click)="nextGame()">Next game</button>
+        </aside>
+    }
+
